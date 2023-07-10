@@ -1,7 +1,3 @@
-<!--<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;I+am+Zastinian&color=FFFFFF&center=true&size=30&font=Rubik+80s+Fade" />
-</h1>-->
-
 <hr />
 <h2 align="center" style="font-family: Rubik 80s Fade">🖇️ Github Stats 🖇️</h2>
 
