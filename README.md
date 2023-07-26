@@ -46,7 +46,7 @@
   <a align="right" href="https://github.com/samuelvergaramartin/netcat-utils" title="netcat-utils"
     ><img
       height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=Bot-Discord-NetCat-oldest&theme=dracula&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=netcat-utils&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
 </div>
 
