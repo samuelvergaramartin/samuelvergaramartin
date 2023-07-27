@@ -1,3 +1,5 @@
+En mantenimiento
+<!--
 <hr />
 <h2 align="center" style="font-family: Rubik 80s Fade">🖇️ Github Stats 🖇️</h2>
 
@@ -55,3 +57,4 @@
 <h4 align="center">
   <a href="https://github.com/samuelvergaramartin?tab=repositories" title="Show Repositories">🔎 More 🔍</a>
 </h4>
+-->
