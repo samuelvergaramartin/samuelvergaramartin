@@ -54,6 +54,6 @@
 <br />
 
 <h4 align="center">
-  <a href="https://github.com/samuelvergaramartin?tab=repositories" title="Show Repositories">🔎 More 🔍</a>
+  <a href="https://github.com/samuelvergaramartin?tab=repositories" title="Show Repositories">📂 All Repositories (Public Repositories) 📂</a>
 </h4>
 
