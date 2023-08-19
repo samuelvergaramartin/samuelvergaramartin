@@ -1,5 +1,4 @@
-<!--
-<hr />-->
+
 <h2 align="center" style="font-family: Rubik 80s Fade">📊 samuelvergaramartin GitHub Stats 📊</h2>
 
 <br />
