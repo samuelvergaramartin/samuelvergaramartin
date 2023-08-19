@@ -1,7 +1,6 @@
-En mantenimiento
-<!--
+
 <hr />
-<h2 align="center" style="font-family: Rubik 80s Fade">🖇️ Github Stats 🖇️</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">📊 samuelvergaramartin GitHub Stats 📊</h2>
 
 <br />
 <div width="100%" style="margin: 20px" align="center">
@@ -21,7 +20,7 @@ En mantenimiento
 </div>
 <hr />
 
-<h2 align="center" style="font-family: Rubik 80s Fade">⌨ Public Repositories ⌨</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">🌍 Public Repositories 🌍</h2>
 
 <br />
 <div width="100%" align="center">
@@ -57,4 +56,4 @@ En mantenimiento
 <h4 align="center">
   <a href="https://github.com/samuelvergaramartin?tab=repositories" title="Show Repositories">🔎 More 🔍</a>
 </h4>
--->
+
