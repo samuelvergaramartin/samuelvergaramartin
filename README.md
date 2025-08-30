@@ -19,34 +19,29 @@
 </div>
 <hr />
 
-<h2 align="center" style="font-family: Rubik 80s Fade">🌍 Public Repositories 🌍</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">🌍 Most Popular Public Repositories 🌍</h2>
 
 <br />
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/samuelvergaramartin/Discord-Bot-NetCat-v12-discord.js" title="Discord-Bot-NetCat-v12-discord.js"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=Discord-Bot-NetCat-v12-discord.js&theme=dracula&border_color=61dafb&border_radius=10"
-  /></a>
-  <a align="left" href="https://github.com/samuelvergaramartin/Discord-Bot-NetCat-Alfa-v13-discord.js" title="Discord-Bot-NetCat-Alfa-v13-discord.js"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=Discord-Bot-NetCat-Alfa-v13-discord.js&theme=dracula&border_color=61dafb&border_radius=10"
-  /></a>
   <a align="right" href="https://github.com/samuelvergaramartin/Daemons-para-Ubuntu" title="Daemons-para-Ubuntu"
     ><img
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=Daemons-para-Ubuntu&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
-  <a align="right" href="https://github.com/samuelvergaramartin/Bot-Discord-NetCat-oldest" title="Bot-Discord-NetCat-oldest"
-    ><img
-      height="115"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=Bot-Discord-NetCat-oldest&theme=dracula&border_color=61dafb&border_radius=10"
-  /></a>
   <a align="center" href="https://github.com/samuelvergaramartin/netcat-utils" title="netcat-utils"
     ><img
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=netcat-utils&theme=dracula&border_color=61dafb&border_radius=10"
+  /></a>
+  <a align="center" href="https://github.com/samuelvergaramartin/NetCat-Browser" title="NetCat-Browser"
+    ><img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=NetCat-Browser&theme=dracula&border_color=61dafb&border_radius=10"
+  /></a>
+  <a align="center" href="https://github.com/samuelvergaramartin/NetCat-Rescue" title="NetCat-Rescue"
+    ><img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=NetCat-Rescue&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
 </div>
 
