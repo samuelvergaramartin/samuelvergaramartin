@@ -43,6 +43,11 @@
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=NetCat-Rescue&theme=dracula&border_color=61dafb&border_radius=10"
   /></a>
+  <a align="center" href="https://github.com/samuelvergaramartin/1-DAM-GS-Programacion" title="1-DAM-GS-Programacion"
+    ><img
+      height="115"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=samuelvergaramartin&repo=1-DAM-GS-Programacion&theme=dracula&border_color=61dafb&border_radius=10"
+  /></a>
 </div>
 
 <br />
@@ -50,4 +55,3 @@
 <h4 align="center">
   <a href="https://github.com/samuelvergaramartin?tab=repositories" title="Show Repositories">📂 All Repositories (Public Repositories) 📂</a>
 </h4>
-
